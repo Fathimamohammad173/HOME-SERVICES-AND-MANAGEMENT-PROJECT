@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "Ravi",
+    "isAvailable": true
+  },
+  {
+    "id": 2,
+    "name": "Meena",
+    "isAvailable": true
+  },
+  {
+    "id": 3,
+    "name": "Ajay",
+    "isAvailable": true
+  },
+  {
+    "id": 0,
+    "isAvailable": false
+  },
+  {
+    "id": 0,
+    "isAvailable": false
+  }
+]

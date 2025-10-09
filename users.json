@@ -1,0 +1,26 @@
+[
+  {
+    "userId": "USR1001",
+    "name": "kiran",
+    "username": "kiran@urbanclub.com",
+    "password": "kiran123",
+    "address": "Guntur",
+    "phone": "7799120234"
+  },
+  {
+    "userId": "USR1002",
+    "name": "kiran",
+    "username": "kiran@gmail.com",
+    "password": "kira",
+    "address": "cgvh",
+    "phone": "5412451"
+  },
+  {
+    "userId": "USR1003",
+    "name": "gk@urbanclub.com",
+    "username": "gk@urbanclub.com",
+    "password": "12345",
+    "address": "guntur",
+    "phone": "7780172877"
+  }
+]

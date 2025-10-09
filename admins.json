@@ -1,0 +1,24 @@
+[
+  {
+    "password": "kiran",
+    "username": "kiran"
+  },
+  {
+    "password": "fathima123",
+    "username": "fathima@urbanclub.com"
+  },
+  {
+    "password": "gopi123",
+    "username": "gopi@urbanclub.com"
+  },
+  {
+    "password": "kiran123",
+    "name": "kiran",
+    "username": "kiran@urbanclub.com"
+  },
+  {
+    "password": "venkat123",
+    "name": "Venkat",
+    "username": "venkat@urbanclub.com"
+  }
+]

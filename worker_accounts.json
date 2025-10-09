@@ -1,0 +1,30 @@
+[
+  {
+    "workerId": "W1",
+    "username": "sivam@urbanclub.com",
+    "password": "12345",
+    "service": "PestControl",
+    "isAvailable": false
+  },
+  {
+    "workerId": "W2",
+    "username": "kirankumar@urbanclub.com",
+    "password": "kiran123",
+    "service": "Cleaning",
+    "isAvailable": false
+  },
+  {
+    "workerId": "W3",
+    "username": "sivasankhar@urbanclub.com",
+    "password": "siva",
+    "service": "Fitness Trainer",
+    "isAvailable": false
+  },
+  {
+    "workerId": "W4",
+    "username": "siva@urbanclub.com",
+    "password": "siva123",
+    "service": "PestControl",
+    "isAvailable": false
+  }
+]
